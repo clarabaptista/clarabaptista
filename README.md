@@ -1,6 +1,6 @@
 # 💫 About Me:
-💭 I aspire to be a **Data Analyst** <br/>
-🌱 I am currently exploring **Data Analysis** and **Frontend Frameworks** <br/>
+💭 I aspire to be a **Front Developer** <br>
+🌱 I am currently exploring  **Frontend Frameworks** and **Data Analysis** <br>
 🎧 Coding + music === me
 
 ## 🌐 Socials:
